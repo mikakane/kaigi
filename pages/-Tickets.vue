@@ -1,13 +1,11 @@
 <template>
-<!--
   <section class="p-tickets">
     <div class="container">
       <h2 class="c-title">Tickets</h2>
       <p class="p-tickets-message">チケット発売開始しました！</p>
-      <a href="#" target="_blank" class="p-tickets-btn">チケット購入！</a>
+      <a href="https://passmarket.yahoo.co.jp/event/show/detail/013amqz9a9bc.html" target="_blank" class="p-tickets-btn">チケット購入！</a>
     </div>
   </section>
--->
 </template>
 
 <script>
